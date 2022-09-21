@@ -14,7 +14,7 @@ cin>>num;
 	else
 	{num=num-1;
 	}
-		
+		hey;
 	}
 	cout<<k;
 	return 0;
